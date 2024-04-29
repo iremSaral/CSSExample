@@ -1,0 +1,48 @@
+.logo {
+    display: block;
+    margin: auto;
+  }
+  .body{
+    display: block;
+    margin: auto;
+  }
+  .search {
+    display: block;
+    background-color:  rgba(128, 128, 128, 0.163);
+    width: 80%;
+    height: 85px;
+    margin-left: 150px;
+    text-align: center;
+  }
+  .ınputbar {
+    width: 250px;
+}
+.butoncontainer{
+    margin-top: 5px;
+}
+ .footer{
+
+    display: flex;
+    width: 80%;
+    text-align: center;
+    margin-left: 150px;
+ } 
+.footer1{
+   background-color: rgba(44, 175, 175, 0.594);;
+    width: 40%;
+}
+.footer2{
+    background-color: rgb(48, 212, 212);
+    width: 30%;
+}
+.footer3{
+    background-color: rgb(37, 142, 142);
+    width: 30%;
+    flex: 1;
+
+ 
+}
+.link{
+    display: block;
+
+}
